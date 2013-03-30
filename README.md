@@ -5,11 +5,11 @@ Pico Objective-C Client for the [Amazon Product Advertising API](https://affilia
 
 ## Note
 1. This is only the proxy part of the PicoAWSECommerceServiceClient, you need to integrate with [Pico Runtime](https://github.com/bulldog2011/pico) before you can use this proxy, please follow instructions on Pico github site to add the Pico runtime library and the PicoAWSECommerceServiceClient in your iOS app, you may also start with the sample mentioned in Reference Sample section below. 
-2. You need to fill in `AWSAccessKeyId` and `AWSSecureKeyId` in `AWSECommerceServiceClient` before your app can invoke eBay Shopping service, and you must call `- (void)authenticateRequest:(NSString *)action` in the `AWSECommerceServiceClient` to authenticate the rquest every time you make a service call, see sample mentioned in Reference Sample for details.
+2. You need to fill in `AWSAccessKeyId` and `AWSSecureKeyId` in `AWSECommerceServiceClient` before your app can invoke Amazon Product Advertising service, and you must call `- (void)authenticateRequest:(NSString *)action` method in the `AWSECommerceServiceClient` to authenticate the request everytime you make a service call, see sample mentioned in Reference Sample section for details.
 3. Besides proxy code, this site also hosts the [appledoc for the PicoAWSECommerceServiceClient](http://bulldog2011.github.com/PicoAWSECommerceServiceClient/). 
 
 As per Amazon:
->You will not, without our express prior written approval, use any Product Advertising Content on or in >connection with any site or application designed or intended for use with a mobile phone or other handheld >device.
+>You will not, without our express prior written approval, use any Product Advertising Content on or in connection with any site or application designed or intended for use with a mobile phone or other handheld device.
 
 So please consult Amazon for permission before you can use its Product Advertising Content on any iOS devices.
 
