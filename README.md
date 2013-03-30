@@ -85,8 +85,8 @@ With this proxy and the generic Pico runtime library, Amazon Product Advertising
 
 ## Reference Sample 
 
-* [ASWECommerce](https://github.com/bulldog2011/pico/tree/master/Examples/AWSECommerce) - Hello world like sample using [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html) SOAP call..
-* [AWSECDemoApp](https://github.com/bulldog2011/pico/tree/master/Examples/AWSECDemoApp) - Sample Amazon Book search and purchase app using Amazon Product Advertising API..
+* [ASWECommerce](https://github.com/bulldog2011/pico/tree/master/Examples/AWSECommerce) - Hello world like sample using [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html) SOAP call.
+* [AWSECDemoApp](https://github.com/bulldog2011/pico/tree/master/Examples/AWSECDemoApp) - Sample Amazon Book search and purchase app using Amazon Product Advertising API.
 
 ##Docs
 1. [Wsdl Driven Development on iOS - the Big Picture](http://bulldog2011.github.com/blog/2013/03/25/wsdl-driven-development-on-ios-the-big-picture/)
