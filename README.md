@@ -90,7 +90,7 @@ With this proxy and the generic Pico runtime library, Amazon Product Advertising
 
 ##Docs
 1. [Wsdl Driven Development on iOS - the Big Picture](http://bulldog2011.github.com/blog/2013/03/25/wsdl-driven-development-on-ios-the-big-picture/)
-2. [Pico Tutorial 5 - Hello Amazon Product Advertising Service](TODO)
+2. [Pico Tutorial 5 - Hello Amazon Product Advertising API](http://bulldog2011.github.com/blog/2013/03/31/pico-tutoiral-5-hello-amazon-product-advertising-api/)
 
 
 ##Copyright and License
